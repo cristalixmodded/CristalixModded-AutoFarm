@@ -8,7 +8,7 @@
   - Интервал между подходами
   
 ### Установка для Windows
- Скачайте и запустите [программу](https://github.com/cristalixmodded/CristalixModded-AutoFarm/releases/download/v0.0.1/main.exe)
+ Скачайте и запустите [программу](https://github.com/cristalixmodded/CristalixModded-AutoFarm/releases/download/v0.0.2/main.exe)
   
 ### Установка для других ОС
   Для работы необходим [Python 3](https://www.python.org/downloads/), дополнительные модули
